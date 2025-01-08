@@ -1,8 +1,6 @@
 # Available on web! 
 → https://tune-bridge.com
 
-**Preview:**
-
 ## Home
 
 ![alt text](image.png)
