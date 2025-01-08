@@ -1,7 +1,7 @@
 # Available on web! 
-# → https://tune-bridge.com
+→ https://tune-bridge.com
 
-# Preview:
+**Preview:**
 
 ## Home
 
