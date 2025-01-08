@@ -1,18 +1,7 @@
-# TuneBridge
+# Available on web! 
+# → https://tune-bridge.com
 
-## How to Run?
-
-```
-cd TuneBridge
-
-npm install
-
-npm run dev
-
-o + enter
-```
-
-순서대로 실행하면 된다.
+# Preview:
 
 ## Home
 
